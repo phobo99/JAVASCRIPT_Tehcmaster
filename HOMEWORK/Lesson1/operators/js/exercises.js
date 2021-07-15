@@ -76,4 +76,6 @@ function isAlphabet(c) {
     }else{
         return false
     }
+
+    //  return /[a-zA-Z]/.test(c);
 }
